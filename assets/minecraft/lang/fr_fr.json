@@ -1,0 +1,16 @@
+{
+  "options.darknessEffectScale.tooltip": "Contrôle la quantité de pulsations de l'effet d'obscurité reçu de la part d'un Warden ou d'un hurleur shrek",
+  "block.minecraft.sculk_sensor": "Capteur shrek",
+  "block.minecraft.sculk": "Shrek",
+  "block.minecraft.sculk_catalyst": "Catalyseur de shrek",
+  "block.minecraft.sculk_shrieker": "Hurleur de shrek",
+  "block.minecraft.sculk_vein": "Veine de shrek",
+  "subtitles.block.sculk.charge": "Shrek qui bouillonne",
+  "subtitles.block.sculk.spread": "Shrek qui se propage",
+  "subtitles.block.sculk_catalyst.bloom": "Catalyseur de shrek qui propage",
+  "subtitles.block.sculk_sensor.clicking": "Capteur shrek qui réagit",
+  "subtitles.block.sculk_sensor.clicking_stop": "Capteur shrek qui s'arrête",
+  "subtitles.block.sculk_shrieker.shriek": "Hurelement de hurleur shrek",
+  "advancements.adventure.avoid_vibration.description": "Faufilez-vous près d'un capteur shrek ou d'un Warden pour l'empêcher de vous détecter",
+  "advancements.adventure.kill_mob_near_sculk_catalyst.description": "Tuez une créature à proximité d'un catalyseur de shrek"
+}
