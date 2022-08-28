@@ -1,0 +1,16 @@
+{
+    "options.darknessEffectScale.tooltip": "Kontrolē cik daudz tumsas efekts pulsēs, kad tev to iedos uzraugs vai Šreks.",
+    "block.minecraft.sculk_sensor": "Šreka Sensors",
+    "block.minecraft.sculk": "Šrekas",
+    "block.minecraft.sculk_catalyst": "Šreka Katalizātors",
+    "block.minecraft.sculk_shrieker": "Šreka Kliedzējs",
+    "block.minecraft.sculk_vein": "Šreka Vēnas",
+    "subtitles.block.sculk.charge": "Šreks Burbuļo",
+    "subtitles.block.sculk.spread": "Šreks Izplešās",
+    "subtitles.block.sculk_catalyst.bloom": "Šreka Katalizātors Uzzied",
+    "subtitles.block.sculk_sensor.clicking": "Šreka Sensors Šāk Kladzināt",
+    "subtitles.block.sculk_sensor.clicking_stop": "Šreka Sensors Beidz Kladzināt",
+    "subtitles.block.sculk_shrieker.shriek": "Šreka Kliedzējs Kliedz",
+    "advancements.adventure.avoid_vibration.description": "Lavies Šreka Sensora vai uzrauga tuvumā, tā lai tie tevi nepamana",
+    "advancements.adventure.kill_mob_near_sculk_catalyst.description": "Nogalini radību Šreka Katalizātora tuvumā"
+}
