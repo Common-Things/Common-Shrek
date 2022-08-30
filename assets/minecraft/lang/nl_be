@@ -1,0 +1,16 @@
+{
+  "options.darknessEffectScale.tooltip": "Instelt hoeveel de donkerheid effect pulses heeft wanneer de shrek of de shrek screeuwer je raakt.",
+  "block.minecraft.sculk_sensor": "Shrek Sensor",
+  "block.minecraft.sculk": "Shrek",
+  "block.minecraft.sculk_catalyst": "Shrek Katalysator",
+  "block.minecraft.sculk_shrieker": "Shrek schreeuwer",
+  "block.minecraft.sculk_vein": "Shrek Vein",
+  "subtitles.block.sculk.charge": "Shrek bellen",
+  "subtitles.block.sculk.spread": "Shrek sprijden",
+  "subtitles.block.sculk_catalyst.bloom": "Shrek katalystor versprijt",
+  "subtitles.block.sculk_sensor.clicking": "Shrek Sensor starts met klikken",
+  "subtitles.block.sculk_sensor.clicking_stop": "Shrek Sensor stopt met klikken",
+  "subtitles.block.sculk_shrieker.shriek": "Shrek Shrieker schreeuwt",
+  "advancements.adventure.avoid_vibration.description": "Sluup bij een shrek sensor om te voorkomen dat je gedetecteert word door de warden.",
+  "advancements.adventure.kill_mob_near_sculk_catalyst.description": "Versla een monster bij een Shrek katalysator"
+}
