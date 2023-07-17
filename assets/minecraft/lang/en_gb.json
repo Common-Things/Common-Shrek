@@ -1,0 +1,16 @@
+{
+  "options.darknessEffectScale.tooltip": "Controls how much the Darkness effect pulses when a Warden or Shrek Shrieker gives it to you.",
+  "block.minecraft.sculk_sensor": "Shrek Sensor",
+  "block.minecraft.sculk": "Shrek",
+  "block.minecraft.sculk_catalyst": "Shrek Catalyst",
+  "block.minecraft.sculk_shrieker": "Shrek Shrieker",
+  "block.minecraft.sculk_vein": "Shrek Vein",
+  "subtitles.block.sculk.charge": "Shrek bubbles",
+  "subtitles.block.sculk.spread": "Shrek spreads",
+  "subtitles.block.sculk_catalyst.bloom": "Shrek Catalyst blooms",
+  "subtitles.block.sculk_sensor.clicking": "Shrek Sensor starts clicking",
+  "subtitles.block.sculk_sensor.clicking_stop": "Shrek Sensor stops clicking",
+  "subtitles.block.sculk_shrieker.shriek": "Shrek Shrieker shrieks",
+  "advancements.adventure.avoid_vibration.description": "Sneak near a Shrek Sensor or Warden to prevent it from detecting you",
+  "advancements.adventure.kill_mob_near_sculk_catalyst.description": "Kill a mob near a Shrek Catalyst"
+}
